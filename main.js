@@ -4,9 +4,9 @@ myImage.onclick = function() {
 	var mySrc = myImage.getAttribute('src');
 	
 	if(mySrc === bella4months.jpeg') {
-		myImage.setAttribute('src', 'bella2months.jpg');
+		myImage.setAttribute('src', '/bella2months.jpg');
 	} else {
-		myImage.setAttribute('src', 'bella4months.jpeg');
+		myImage.setAttribute('src', '/bella4months.jpeg');
 	}
 
 }

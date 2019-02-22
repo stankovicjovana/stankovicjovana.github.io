@@ -3,10 +3,10 @@ var myImage = document.querySelector('img');
 myImage.onclick = function() {
 	var mySrc = myImage.getAttribute('src');
 	
-	if(mySrc === 'images/bella4months.jpeg') {
-		myImage.setAttribute('src', 'images/bella2months.jpg');
+	if(mySrc === bella4months.jpeg') {
+		myImage.setAttribute('src', 'bella2months.jpg');
 	} else {
-		myImage.setAttribute('src', 'images/bella4months.jpeg');
+		myImage.setAttribute('src', 'bella4months.jpeg');
 	}
 
 }

@@ -6,11 +6,18 @@ html {
 }
 
 body {
-	width: 600px;
+	position: relative;
+  height: 100%;
+	width: 1200px;
 	margin: 0 auto;
 	background-color: #F6F7F7;
-	padding: 0 20px 20px 20px;
+	padding: 0;
 	border: 5px solid black;
+	
+	
+}
+main {
+	margin: 0 2% 2% 25%;
 }
 
 h1 {
@@ -33,6 +40,7 @@ p, li {
 	font-size: 16px;
 	line-height: 2;
 	letter-spacing: 1px; 
+	
 }
 
 img {
@@ -40,3 +48,33 @@ img {
 	margin: 0 auto;
 	width: 400px;
 }
+
+div {
+	
+	background-color: #D5D7EB;
+	padding: 0px;
+	text-align: left;
+	
+}
+
+.paragrafTitle {
+	background-color: #60F4F4;
+	margin: 0px;
+	
+}
+
+aside {
+    position: absolute;
+		width: 20%;
+		height: 100%; 
+    padding-left: 20px;
+    margin: 0 auto;
+    float: left;
+    
+    font-style: italic;
+    color: white;
+		background-color:#29627e;
+}
+
+
+

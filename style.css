@@ -47,8 +47,11 @@ img {
 	width: 100px;
 }
 
+
 div {
+
 	margin-bottom: 20px;
+	padding: 0px;
 	text-align: left;
 	border-top-width: 0;
 	/*border: 1px solid black;
@@ -86,6 +89,7 @@ aside {
 		background-color:#29627e;
 }
 
+
 aside .paragrafTitle {
 	background-color:#29627e;
 	color: white;
@@ -107,4 +111,27 @@ article .innerSide {
 
 .year {
 	margin-top:0px;
+}
+
+.kurac {
+	background-color: #D5D7EB;
+	border-left: 2px solid black;
+}
+
+.kurac p {
+	margin: 0;
+}
+
+.kurac ul {
+	padding-left: 25px;
+	
+}
+
+.kurac ul li{
+	font-size: 36px;
+}
+
+.kurac ul li div {
+	font-size: 16px;
+
 }

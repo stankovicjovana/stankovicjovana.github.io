@@ -1,6 +1,6 @@
 html {
 	font-size: 10px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;
 	background-color: #D5D7EB;
 	
 }
@@ -23,17 +23,15 @@ main {
 h1 {
 	margin: 0;
 	padding: 20px 0;
-	color: #5EC3C3;
-	text-shadow: 3px 3px 1px black;
+	color: black;
 	font-size: 60px;
-	text-align: center;
+	text-align: left;
 }
 
-h2, h4 {
-	color: #5EC3C3;
-	text-shadow: 3px 3px 1px black;
+h2 {
+	color: black;
 	font-size: 30px;
-	text-align: center;
+	text-align: left;
 }
 
 p, li {
@@ -63,6 +61,10 @@ div {
 	
 }
 
+.paragrafText {
+	font-family: 'Lato', sans-serif;
+}
+
 aside {
     position: absolute;
 		width: 20%;
@@ -71,7 +73,6 @@ aside {
     margin: 0 auto;
     float: left;
     
-    font-style: italic;
     color: white;
 		background-color:#29627e;
 }

@@ -48,24 +48,29 @@ img {
 }
 
 div {
-	padding: 0px;
+	margin-bottom: 20px;
 	text-align: left;
-	
+	border-top-width: 0;
+	/*border: 1px solid black;
+	border-top-width: 0;
+	border-right-width: 2px;*/
 }
 
 .paragrafTitle {
 	color: black;
-	font-size: 30px;
+	font-size: 20px;
 	margin: 0px;
 	background-color: #D5D7EB;
+ 	font-weight: bold;
 	
 }
 
 .paragrafText {
 	font-family: 'Lato', sans-serif;
+	margin: 0;
 }
 
-#lighterText {
+.lighterText {
 	color: #6699ff;
 }
 
@@ -86,4 +91,20 @@ aside .paragrafTitle {
 	color: white;
 }
 
+article {
+	margin: 0;
+	background: green;
+	position: absolute;
+	
+}
 
+article .innerSide {
+	position: relative;
+	height: 20%;
+	width: 80%;
+	float: right;
+}
+
+.year {
+	margin-top:0px;
+}

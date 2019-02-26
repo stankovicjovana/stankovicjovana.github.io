@@ -82,3 +82,7 @@ aside {
 .kurac p {
 	margin: 0;
 }
+
+.kurac ul {
+	padding-left: 11px;
+}

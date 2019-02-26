@@ -50,8 +50,6 @@ img {
 }
 
 div {
-	
-	background-color: #D5D7EB;
 	padding: 0px;
 	text-align: left;
 	
@@ -76,5 +74,11 @@ aside {
 		background-color:#29627e;
 }
 
+.kurac {
+	background-color: #D5D7EB;
+	border-left: 2px solid black;
+}
 
-
+.kurac p {
+	margin: 0;
+}

@@ -84,5 +84,14 @@ aside {
 }
 
 .kurac ul {
-	padding-left: 11px;
+	padding-left: 25px;
+	
+}
+
+.kurac ul li{
+	font-size: 36px;
+}
+
+.kurac ul li div{
+	font-size: 16px;
 }

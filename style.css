@@ -35,7 +35,7 @@ h2 {
 }
 
 p, li {
-	font-size: 16px;
+	font-size: 12px;
 	line-height: 2;
 	letter-spacing: 1px; 
 	
@@ -94,6 +94,10 @@ div {
 aside .paragrafTitle {
 	background-color:#29627e;
 	color: white;
+}
+
+aside .paragrafText {
+
 }
 
 article {

@@ -79,6 +79,7 @@ div {
 .paragrafText {
 	font-family: 'Lato', sans-serif;
 	margin: 0;
+	
 }
 
 .lighterText {
@@ -112,36 +113,48 @@ aside .paragrafTitle {
 
 article {
 	margin: 0;
-	background: green;
+	background: white;
 }
 
 div .innerSide {
 	height: 20%;
 	width: 80%;
-	margin-top: -29px;
+	margin-top: -48px;
 	margin-left:120px;
+	margin-bottom: 10px;
 }
 
 .year {
 	margin-top:0px;
+	font-weight: bold;
+}
+
+.heather {
+	font-weight: bold;
+	font-size:13px;
 }
 
 .lineDotsBox {
-	background-color: #D5D7EB;
+	background-color: white;
 	border-left: 2px solid black;
+	border-bottom: 2px solid black;
 }
 
 .lineDotsBox p {
 	margin: 0;
 }
 
+.oneDotBox {
+	margin-bottom: 0;
+}
+
 .lineDotsBox .line {
 	padding-left: 25px;
-	
+	background: white;
 }
 
 .lineDotsBox .line .dot {
-	font-size: 36px;
+	font-size: 37px;
 }
 
 .lineDotsBox .line .dot div {

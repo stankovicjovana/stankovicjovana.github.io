@@ -135,16 +135,16 @@ div .innerSide {
 	margin: 0;
 }
 
-.lineDotsBox ul {
+.lineDotsBox .line {
 	padding-left: 25px;
 	
 }
 
-.lineDotsBox ul li{
+.lineDotsBox .line .dot {
 	font-size: 36px;
 }
 
-.lineDotsBox ul li div {
+.lineDotsBox .line .dot div {
 	font-size: 16px;
 
 }

@@ -61,6 +61,12 @@ div {
 	margin-left:10%;
 }
 
+.references {
+	margin-left:10%;
+	position: absolute; 
+	bottom: 0;
+}
+
 .paragrafTitle {
 	color: black;
 	font-size: 20px;
@@ -96,8 +102,12 @@ aside .paragrafTitle {
 	color: white;
 }
 
-aside .paragrafText {
+.italic {
+	font-style: italic;
+}
 
+.bolder {
+	font-weight: bold;
 }
 
 article {

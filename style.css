@@ -102,8 +102,8 @@ aside .paragrafTitle {
 	color: white;
 }
 
-aside .paragrafText {
-
+.italic {
+	font-style: italic;
 }
 
 article {

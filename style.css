@@ -16,7 +16,7 @@ body {
 }
 
 main {
-	margin: 0 2% 2% 25%;
+	margin: 0 2% 2% 28%;
 }
 
 h1 {
@@ -126,25 +126,25 @@ div .innerSide {
 	margin-top:0px;
 }
 
-.kurac {
+.lineDotsBox {
 	background-color: #D5D7EB;
 	border-left: 2px solid black;
 }
 
-.kurac p {
+.lineDotsBox p {
 	margin: 0;
 }
 
-.kurac ul {
+.lineDotsBox .line {
 	padding-left: 25px;
 	
 }
 
-.kurac ul li{
+.lineDotsBox .line .dot {
 	font-size: 36px;
 }
 
-.kurac ul li div {
+.lineDotsBox .line .dot div {
 	font-size: 16px;
 
 }

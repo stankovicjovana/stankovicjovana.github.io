@@ -151,3 +151,8 @@ div .innerSide {
 #teamwork {
 	width:90%;
 }
+
+.skillsBar {
+	border: 1px solid black;
+	list-style-type: none;
+}

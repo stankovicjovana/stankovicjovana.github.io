@@ -132,3 +132,22 @@ div .innerSide {
 	font-size: 16px;
 
 }
+
+.myProgress {
+	width:30%;
+	background-color: #D5D7EB;
+	
+}
+
+.bar {
+	height: 30px;
+	background-color: #29627e;
+}
+
+#mybar {
+	width:80%;
+}
+
+#teamwork {
+	width:90%;
+}

@@ -106,6 +106,10 @@ aside .paragrafTitle {
 	font-style: italic;
 }
 
+.bolder {
+	font-weight: bold;
+}
+
 article {
 	margin: 0;
 	background: green;

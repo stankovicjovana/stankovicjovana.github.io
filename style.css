@@ -61,6 +61,12 @@ div {
 	margin-left:10%;
 }
 
+.references {
+	margin-left:10%;
+	position: absolute; 
+	bottom: 0;
+}
+
 .paragrafTitle {
 	color: black;
 	font-size: 20px;

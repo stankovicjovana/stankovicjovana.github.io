@@ -126,25 +126,25 @@ div .innerSide {
 	margin-top:0px;
 }
 
-.kurac {
+.lineDotsBox {
 	background-color: #D5D7EB;
 	border-left: 2px solid black;
 }
 
-.kurac p {
+.lineDotsBox p {
 	margin: 0;
 }
 
-.kurac ul {
+.lineDotsBox ul {
 	padding-left: 25px;
 	
 }
 
-.kurac ul li{
+.lineDotsBox ul li{
 	font-size: 36px;
 }
 
-.kurac ul li div {
+.lineDotsBox ul li div {
 	font-size: 16px;
 
 }

@@ -217,6 +217,10 @@ div .innerSide {
   
 }
 
+#graduationHat {
+	transform: translate(16%,13%);
+}
+
 .work {
 	
 }

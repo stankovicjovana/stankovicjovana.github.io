@@ -171,6 +171,10 @@ div .innerSide {
 
 }
 
+.skill {
+	border:1px solid green;
+}
+
 .myProgress {
 	width:30%;
 	background-color: #D5D7EB;
@@ -193,6 +197,20 @@ div .innerSide {
 .skillsBar {
 	border: 1px solid black;
 	list-style-type: none;
+	width: 40%;
+	
+}
+
+#left {
+	color: blue;
+	display: inline-block;
+
+}
+
+#right {
+	color: green;
+	display: inline-block;
+	
 }
 
 #circle {

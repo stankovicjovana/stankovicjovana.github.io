@@ -66,6 +66,10 @@ div {
 	position: absolute; 
 	bottom: 0;
 }
+.boxHeather {
+	background-color: #D5D7EB;
+	margin: 0;
+}
 
 .paragrafTitle {
 	color: black;

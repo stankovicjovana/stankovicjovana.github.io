@@ -66,10 +66,12 @@ div {
 	position: absolute; 
 	bottom: 0;
 }
+
 .boxHeather {
 	background-color: #D5D7EB;
 	margin: 0;
 }
+
 
 .paragrafTitle {
 	color: black;
@@ -77,6 +79,7 @@ div {
 	margin: 0px;
 	background-color: #D5D7EB;
  	font-weight: bold;
+ 	
 	
 }
 
@@ -215,7 +218,7 @@ div .innerSide {
 }
 
 .work {
-	border:1px solid black;
+	
 }
 
 .work .paragrafTitle {

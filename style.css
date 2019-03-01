@@ -172,48 +172,84 @@ div .innerSide {
 
 }
 
+
+.skillBox {
+	border-left:2px solid black;
+	border-bottom: 2px solid black;
+	margin-top: 10px;
+}
+
+.skillsBar {
+	list-style-type: none;
+	width: 49%;
+	padding: 3%;
+	display: inline-block;
+}
+
+.right {
+	transform: translate(-14%, 0%);
+}
+
 .skill {
-	border:1px solid green;
+	
+	position: relative;
+}
+
+.skill p {
+	width: 40%;
+	text-align: right;
+	margin: 0 0 15px -23px;
+	font-weight: bold;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 12px;
 }
 
 .myProgress {
-	width:30%;
+	width: 65%;
 	background-color: #D5D7EB;
-	
+	margin-bottom: 0;
+	position: absolute;
+	top: 10%;
+	left: 36%;
 }
 
 .bar {
-	height: 30px;
+	height: 20px;
 	background-color: #29627e;
+	margin-bottom: 0;
 }
 
-.mybar {
+.cpp {
 	width:80%;
+}
+
+.java {
+	width: 50%;
+}
+
+.html {
+	width: 60%;
+}
+
+.css {
+	width: 50%;
 }
 
 .teamwork {
 	width:90%;
 }
 
-.skillsBar {
-	border: 1px solid black;
-	list-style-type: none;
-	width: 40%;
-	
+.comunication {
+	width:90%;
 }
 
-.left {
-	color: blue;
-	display: inline-block;
-
+.projectManagement {
+	width:80%;
 }
 
-.right {
-	color: green;
-	display: inline-block;
-	
+.someSkill {
+	width:90%;
 }
-
 .circle {
   position: absolute;
   border: 2px solid black;

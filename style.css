@@ -195,6 +195,11 @@ div .innerSide {
 	width:90%;
 }
 
+.skillBox {
+	border-left:2px solid black;
+	border-bottom: 2px solid black;
+}
+
 .skillsBar {
 	border: 1px solid black;
 	list-style-type: none;

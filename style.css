@@ -222,10 +222,21 @@ div .innerSide {
 	margin-bottom: 0;
 }
 
-.mybar {
+.cpp {
 	width:80%;
 }
 
+.java {
+	width: 50%;
+}
+
+.html {
+	width: 60%;
+}
+
+.css {
+	width: 50%;
+}
 .teamwork {
 	width:90%;
 }

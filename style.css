@@ -182,19 +182,12 @@ div .innerSide {
 .skillsBar {
 	list-style-type: none;
 	width: 49%;
-	padding: 0;
-}
-
-.left {
-	color: blue;
+	padding: 3%;
 	display: inline-block;
-
 }
 
 .right {
-	color: green;
-	display: inline-block;
-	transform: translate(-16%, 0%);
+	transform: translate(-14%, 0%);
 }
 
 .skill {
@@ -203,9 +196,9 @@ div .innerSide {
 }
 
 .skill p {
-	width: 35%;
+	width: 40%;
 	text-align: right;
-	margin: 0;
+	margin: 0 0 15px -23px;
 	font-weight: bold;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 12px;

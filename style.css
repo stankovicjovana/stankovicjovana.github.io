@@ -237,10 +237,22 @@ div .innerSide {
 .css {
 	width: 50%;
 }
+
 .teamwork {
 	width:90%;
 }
 
+.comunication {
+	width:90%;
+}
+
+.projectManagement {
+	width:80%;
+}
+
+.someSkill {
+	width:90%;
+}
 .circle {
   position: absolute;
   border: 2px solid black;

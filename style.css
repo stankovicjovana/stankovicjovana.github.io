@@ -16,22 +16,29 @@ body {
 }
 
 main {
-	margin: 0 2% 2% 28%;
+	margin: 0 1% 5% 32%;
 }
 
-h1 {
-	margin: 50px 0 0 0;
+main .mainHeader {
+	transform: translate(-3.5%, 0);
+	font-weight: bold;
+}
+
+main h1 {
+	margin: 70px 0 0 0;
 	padding:  0;
 	color: black;
 	font-size: 60px;
 	text-align: left;
+	font-weight: bold;
 }
 
-h2 {
+main h2 {
 	color: black;
 	font-size: 18px;
 	text-align: left;
 	margin: 10px 0 70px 0;
+	
 }
 
 p, li {
@@ -64,7 +71,7 @@ div {
 .references {
 	margin-left:10%;
 	position: absolute; 
-	bottom: 0;
+	bottom: 15px;
 }
 
 .boxHeader {
@@ -196,7 +203,7 @@ div .innerSide {
 }
 
 .skill p {
-	width: 40%;
+	width: 41%;
 	text-align: right;
 	margin: 0 0 15px -23px;
 	font-weight: bold;
@@ -220,15 +227,15 @@ div .innerSide {
 }
 
 .cpp {
-	width:80%;
+	width:70%;
 }
 
 .java {
-	width: 50%;
+	width: 60%;
 }
 
 .html {
-	width: 60%;
+	width: 70%;
 }
 
 .css {
@@ -240,15 +247,15 @@ div .innerSide {
 }
 
 .comunication {
-	width:90%;
-}
-
-.projectManagement {
 	width:80%;
 }
 
+.projectManagement {
+	width:70%;
+}
+
 .someSkill {
-	width:90%;
+	width:80%;
 }
 .circle {
   position: absolute;

@@ -181,8 +181,8 @@ div .innerSide {
 .skillsBar {
 	border: 1px solid black;
 	list-style-type: none;
-	width: 40%;
-	
+	width: 50%;
+	padding: 0;
 }
 
 .left {
@@ -203,17 +203,18 @@ div .innerSide {
 }
 
 .skill p {
-	color: purple;
+	width: 32%;
+	text-align: right;
 	margin: 0;
 }
 
 .myProgress {
-	width: 68%;
+	width: 65%;
 	background-color: #D5D7EB;
 	margin-bottom: 0;
 	position: absolute;
 	top: 10%;
-	left: 32%;
+	left: 34%;
 }
 
 .bar {

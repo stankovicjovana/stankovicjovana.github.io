@@ -176,12 +176,12 @@ div .innerSide {
 .skillBox {
 	border-left:2px solid black;
 	border-bottom: 2px solid black;
+	margin-top: 10px;
 }
 
 .skillsBar {
-	border: 1px solid black;
 	list-style-type: none;
-	width: 50%;
+	width: 49%;
 	padding: 0;
 }
 
@@ -194,18 +194,21 @@ div .innerSide {
 .right {
 	color: green;
 	display: inline-block;
-	
+	transform: translate(-16%, 0%);
 }
 
 .skill {
-	border:1px solid green;
+	
 	position: relative;
 }
 
 .skill p {
-	width: 32%;
+	width: 35%;
 	text-align: right;
 	margin: 0;
+	font-weight: bold;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 12px;
 }
 
 .myProgress {
@@ -214,7 +217,7 @@ div .innerSide {
 	margin-bottom: 0;
 	position: absolute;
 	top: 10%;
-	left: 34%;
+	left: 36%;
 }
 
 .bar {

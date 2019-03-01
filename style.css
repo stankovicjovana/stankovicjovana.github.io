@@ -172,28 +172,6 @@ div .innerSide {
 
 }
 
-.skill {
-	border:1px solid green;
-}
-
-.myProgress {
-	width:30%;
-	background-color: #D5D7EB;
-	
-}
-
-.bar {
-	height: 30px;
-	background-color: #29627e;
-}
-
-.mybar {
-	width:80%;
-}
-
-.teamwork {
-	width:90%;
-}
 
 .skillBox {
 	border-left:2px solid black;
@@ -217,6 +195,39 @@ div .innerSide {
 	color: green;
 	display: inline-block;
 	
+}
+
+.skill {
+	border:1px solid green;
+	position: relative;
+}
+
+.skill p {
+	color: purple;
+	margin: 0;
+}
+
+.myProgress {
+	width: 68%;
+	background-color: #D5D7EB;
+	margin-bottom: 0;
+	position: absolute;
+	top: 10%;
+	left: 32%;
+}
+
+.bar {
+	height: 20px;
+	background-color: #29627e;
+	margin-bottom: 0;
+}
+
+.mybar {
+	width:80%;
+}
+
+.teamwork {
+	width:90%;
 }
 
 .circle {

@@ -7,7 +7,7 @@ html {
 
 body {
 	position: relative;
-  height: 100%;
+  	height: 100%;
 	width: 1200px;
 	margin: 0 auto;
 	background-color: #F6F7F7;
@@ -87,8 +87,6 @@ div {
 	font-size: 20px;
 	margin: 0px;
  	font-weight: bold;
- 	
-	
 }
 
 .paragrafText {
@@ -102,14 +100,13 @@ div {
 }
 
 .leftSidePart {
-		width: 25%;
-		height: 100%; 
+	width: 25%;
+	height: 100%; 
     padding-left: 20px;
     margin: 0 auto;
     position: absolute;
-    
     color: white;
-		background-color:#29627e;
+	background-color:#29627e;
 }
 
 
@@ -194,7 +191,7 @@ div .innerSide {
 }
 
 .right {
-	transform: translate(-14%, 0%);
+	transform: translate(0%, 0%);
 }
 
 .skill {
@@ -227,34 +224,34 @@ div .innerSide {
 }
 
 .cpp {
-	width:70%;
+	width:90%;
 }
 
 .java {
-	width: 60%;
+	width: 100%;
 }
 
 .html {
-	width: 70%;
+	width: 80%;
 }
 
 .css {
-	width: 50%;
+	width: 70%;
 }
 
 .teamwork {
-	width:90%;
+	width: 95%;
 }
 
 .comunication {
 	width:80%;
 }
 
-.projectManagement {
+.rails {
 	width:70%;
 }
 
-.someSkill {
+.gitSkill {
 	width:80%;
 }
 .circle {

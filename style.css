@@ -68,7 +68,7 @@ div {
 .references {
 	margin-left:10%;
 	position: absolute; 
-	bottom: 15px;
+	bottom: 622px;
 }
 
 .boxHeader {
@@ -93,7 +93,7 @@ div {
 }
 
 .lighterText {
-	color: #6699ff;
+	color: gray;
 }
 
 .leftSidePart {
@@ -244,11 +244,11 @@ div .innerSide {
 }
 
 .js {
-	width: 80%;
+	width: 70%;
 }
 
 .html_css {
-	width: 70%;
+	width: 85%;
 }
 
 .problem_solving {
@@ -256,7 +256,7 @@ div .innerSide {
 }
 
 .comunication {
-	width:80%;
+	width:85%;
 }
 
 .rails {
@@ -302,10 +302,6 @@ div .innerSide {
 
 .projectBox {
 	margin-top: 10px;
-}
-
-.project {
-
 }
 
  .learning_points {

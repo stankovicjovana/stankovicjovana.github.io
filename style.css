@@ -287,3 +287,28 @@ div .innerSide {
 	width:94%;
 	margin-left: 44px;
 }
+
+.projectBox {
+	border-left:2px solid black;
+	border-bottom: 2px solid black;
+	padding: 16px;
+}
+
+.project {
+
+}
+
+.twoProjectsBox {
+	position: relative;
+	margin: 0;
+}
+
+.twoProjectsBox .project {
+	display: inline-block;
+	width: 48%;
+	margin-bottom: 0;
+}
+ .learning_points {
+ 	font-style: italic;
+ 	color: gray;
+ }

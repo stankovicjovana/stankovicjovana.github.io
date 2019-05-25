@@ -298,16 +298,6 @@ div .innerSide {
 
 }
 
-.twoProjectsBox {
-	position: relative;
-	margin: 0;
-}
-
-.twoProjectsBox .project {
-	display: inline-block;
-	width: 48%;
-	margin-bottom: 0;
-}
  .learning_points {
  	font-style: italic;
  	color: gray;

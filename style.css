@@ -173,6 +173,11 @@ div .innerSide {
 
 }
 
+.other .lineDotsBox .line .dot div {
+	font-size: 14px;
+	margin: unset;
+	width: 99%;
+}
 
 .skillBox {
 	border-left:2px solid black;

@@ -1,8 +1,6 @@
 html {
 	font-size: 10px;
-	font-family: 'Roboto', sans-serif;
-	background-color: #D5D7EB;
-	
+	font-family: 'Roboto', sans-serif;	
 }
 
 body {
@@ -10,13 +8,12 @@ body {
   	height: 100%;
 	width: 1200px;
 	margin: 0 auto;
-	background-color: #F6F7F7;
 	padding: 0;
-	border: 5px solid black;
 }
 
 main {
-	margin: 0 1% 5% 32%;
+	margin: 0 1% 0 32%;
+	padding-bottom: 5%;
 }
 
 main .mainHeader {
@@ -25,8 +22,8 @@ main .mainHeader {
 }
 
 main h1 {
-	margin: 70px 0 0 0;
-	padding:  0;
+	margin: 0;
+	padding-top: 37px;
 	color: black;
 	font-size: 60px;
 	text-align: left;
@@ -176,11 +173,22 @@ div .innerSide {
 
 }
 
+.other .lineDotsBox .line .dot div {
+	font-size: 14px;
+	margin: unset;
+	width: 99%;
+}
 
 .skillBox {
 	border-left:2px solid black;
 	border-bottom: 2px solid black;
 	margin-top: -20px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .skillsBar {
@@ -191,7 +199,11 @@ div .innerSide {
 }
 
 .right {
-	transform: translate(0%, 0%);
+	float: right;
+}
+
+.left {
+	float: left;
 }
 
 .skill {
@@ -200,7 +212,7 @@ div .innerSide {
 }
 
 .skill p {
-	width: 60%;
+	width: 56%;
 	text-align: right;
 	margin: 12px 0 15px -5px;
 	font-weight: bold;
@@ -214,7 +226,7 @@ div .innerSide {
 	margin-bottom: 0;
 	position: absolute;
 	top: 10%;
-	left: 61%;
+	left: 58%;
 }
 
 .bar {

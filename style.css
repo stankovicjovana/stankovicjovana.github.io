@@ -289,9 +289,7 @@ div .innerSide {
 }
 
 .projectBox {
-	border-left:2px solid black;
-	border-bottom: 2px solid black;
-	padding: 16px;
+	margin-top: 10px;
 }
 
 .project {
